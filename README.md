@@ -1,10 +1,10 @@
 ## ✨ About hi_kun_JPN 
 
 ### 🔭 my Skill
-<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,cs,py,rust,js,ts,rocket,flask,spring,gcp,aws,vim,cloudflare,bots,maven" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,cs,py,rust,rocket,flask,spring" />
 
 ### 🌱 learning
-<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,docker,ruby,mysql,git,androidstudio" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,docker,ruby,mysql,git,androidstudio,actix" />
 
 ### 💕 Love
 <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=idea,vscode,java,kotlin,spring,gcp,linux" />
