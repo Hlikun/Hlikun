@@ -1,5 +1,8 @@
 ## ✨ About hi_kun_JPN 
 
+全てのレポジトリはプライベートだよ！！
+納期クソ遅いけど無料でコード書くよ！！
+
 ### 🔭 my Skill
 <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,cs,py,go,spring,flask" />
 
