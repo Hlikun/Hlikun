@@ -10,7 +10,7 @@
 <img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=rust,rails,androidstudio,docker,vim" />
 
 ### 💕 Love
-<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,idea,vscode,visualstudio,spring" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,idea,vscode,spring" />
 
 <!--
 ## 📈 Status
