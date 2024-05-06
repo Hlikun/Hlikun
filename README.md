@@ -4,13 +4,13 @@
 納期クソ遅いけど無料でコード書くよ！！
 
 ### 🔭 my Skill
-<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,cs,py,go,spring,flask" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,cs,py,spring" />
 
 ### 🌱 learning
-<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=rust,rocket,rails,androidstudio,docker,mysql,vim" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=rust,rails,androidstudio,docker,vim" />
 
 ### 💕 Love
-<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,idea,vscode,visualstudio,spring,linux" />
+<img alt="skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,kotlin,idea,vscode,visualstudio,spring" />
 
 <!--
 ## 📈 Status
